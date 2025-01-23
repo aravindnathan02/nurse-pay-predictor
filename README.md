@@ -1,5 +1,7 @@
 # Nurse Pay Rate Prediction System
 
+[**Streamlit Link**](https://nurse-pay-predictor.streamlit.app/)
+
 ## Overview
 
 A machine learning-powered Streamlit application that predicts hourly pay rates for healthcare professionals using synthetic data and multiple predictive models.

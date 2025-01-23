@@ -1,0 +1,10 @@
+numpy
+pandas
+xgboost
+scikit-learn
+streamlit
+category_encoders
+tensorflow
+seaborn
+matplotlib
+h5py  # For saving/loading Keras models

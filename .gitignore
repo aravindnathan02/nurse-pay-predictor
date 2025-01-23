@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Model and data files
+saved_models/
+*.h5
+*.pkl
+*.pkl.bz2
+Synthetic_Nurse_Pay_Data.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+.DS_Store

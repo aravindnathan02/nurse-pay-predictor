@@ -25,17 +25,25 @@ A machine learning-powered Streamlit application that predicts hourly pay rates 
 
 ## Installation
 
-> git clone https://github.com/aravindnathan02/nurse-pay-prediction.git \
-> cd nurse-pay-prediction \
-> pip install -r requirements.txt
+```bash
+git clone https://github.com/aravindnathan02/nurse-pay-prediction.git
+cd nurse-pay-prediction
+pip install -r requirements.txt
+```
 
 ## Running the Application
 
 1. Train models and generate data:
-> python pre_deployment.py
+
+```bash
+python pre_deployment.py
+```
 
 2. Launch Streamlit app:
-> streamlit run streamlit_app.py
+
+```bash
+streamlit run streamlit_app.py
+```
 
 ## Model Training
 
